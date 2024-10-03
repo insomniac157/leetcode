@@ -35,6 +35,8 @@ int main() {
     Solution sol;
 
     cout << sol.getLucky("iiii", 1) << endl;
+    cout << sol.getLucky("leetcode", 2) << endl;
+    cout << sol.getLucky("zbax", 2) << endl;
 
     return 0;
 }
